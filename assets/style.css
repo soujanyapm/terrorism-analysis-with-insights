@@ -1,0 +1,91 @@
+.main-div{
+background-color: #13193e;
+padding:10px
+}
+
+.remove-margin{
+margin-left: 0px !important;
+margin-right:0px !important
+}
+
+.main-title{
+color:#15dbcc
+}
+
+.year-title{
+color: white
+}
+
+.custom-tabs-container {
+    width: 82%;
+}
+
+.custom-analysis-tabs{
+ padding:10px 0px;
+  border-top-left-radius: 3px;
+}
+.custom-tabs {
+    border-top-left-radius: 3px;
+    padding: 10px 24px;
+}
+
+.custom-tab {
+    color: white !important;
+    border: 1px solid #ffffff !important;
+    background-color: rgb(46 42 77) !important;
+    padding: 12px !important;
+    font-family: "system-ui";
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+}
+.custom-tab--selected {
+    color: white !important;
+    border: 1px solid #ffffff !important;
+    background-color: rgb(54 147 169) !important;
+    box-shadow: 1px 1px 0px white;
+
+}
+
+.dropdown-heading{
+ color: #ffffff
+}
+
+.rc-slider-mark-text{
+color: white !important
+}
+
+.rc-slider-mark-text-active
+{
+color: white !important
+}
+
+.dropdown-custom .Select-control{
+background-color:#13193e;
+border:1px solid rgb(148 229 249);
+}
+
+.dropdown-custom .Select-placeholder{
+color:#cacccd
+}
+
+.Select--multi .Select-value{
+color:#ffffff !important;
+border: 1px solid #87b7e8
+}
+
+.Select--multi .Select-value-icon{
+border-right: 1px solid #87b7e8
+}
+
+.dropdown-custom .Select-value-label{
+color:#ffffff
+}
+
+.dropdown-custom .Select-input>input{
+color: #ffffff
+}
+
+.Select--single .Select-value-label{
+color: #ffffff !important
+}

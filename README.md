@@ -2,7 +2,12 @@
 ### Analyzing the terrorism data and finding insights which will help in finding the concentration of attack type-Bombing in the area which would help the army in allocation of the resources.
 
 ## Tools/Technologies
-#### Dash, Python, Pandas, Numpy, Plotly
++ Dash 
++ Python 
++ Pandas 
++ Numpy
++ Plotly
++ Power BI
 
 globalterrorismdb.csv data is used for visualization. Data can be visualized for both World and India.
 
@@ -11,3 +16,6 @@ globalterrorismdb.csv data is used for visualization. Data can be visualized for
 
 ## India terrorism data analysis
 ![ScreenShot](/images/screenshot2.png)
+
+## Power BI dashboard
+![ScreenShot](/images/screenshot-4.PNG)

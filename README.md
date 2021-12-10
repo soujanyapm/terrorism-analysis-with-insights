@@ -6,8 +6,8 @@
 
 globalterrorismdb.csv data is used for visualization. Data can be visualized for both World and India.
 
-### World terrorism data analysis
+## World terrorism data analysis
 ![ScreenShot](/images/screenshot1.png)
 
-### India terrorism data analysis
+## India terrorism data analysis
 ![ScreenShot](/images/screenshot2.png)
